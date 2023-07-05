@@ -1,1 +1,2 @@
 # CIBU Restaurant
+![Mockup placeholder](...)
